@@ -1,0 +1,10 @@
+*.csproj*
+
+*.sln
+
+.vs/
+obj/
+Temp/
+Library/
+Hot/
+Assetbundle/

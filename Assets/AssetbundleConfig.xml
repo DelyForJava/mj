@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ABList Path="Assets/GameData/UGUI/TanChuang/Bubble.prefab" ABName="bubble" AssetName="Bubble.prefab" />
+  <ABList Path="Assets/GameData/UGUI/TanChuang/buoy.prefab" ABName="buoy" AssetName="buoy.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/QinyouQuang/FriendRes.prefab" ABName="friendres" AssetName="FriendRes.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/CreatRoom/CreatRoom.prefab" ABName="liang/creatroom" AssetName="CreatRoom.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Mail/E_Mail.prefab" ABName="liang/e_mail" AssetName="E_Mail.prefab">
+    <ABDependce>liang/tanchuang</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Shop/faceView.prefab" ABName="liang/faceview" AssetName="faceView.prefab">
+    <ABDependce>liang/shop</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/feixiang/feixiang.prefab" ABName="liang/feixiang" AssetName="feixiang.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LoadSceen/Zhuce/forget.prefab" ABName="liang/forget" AssetName="forget.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Shop/giftView.prefab" ABName="liang/giftview" AssetName="giftView.prefab">
+    <ABDependce>liang/shop</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/huoDong/houdong.prefab" ABName="liang/houdong" AssetName="houdong.prefab">
+    <ABDependce>liang/tanchuang</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/jiazai/loadbar.prefab" ABName="liang/jiazai" AssetName="loadbar.prefab">
+    <ABDependce>hotpanel</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/JoinRoom/JoinRoom.prefab" ABName="liang/joinroom" AssetName="JoinRoom.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/kefu/KeFu.prefab" ABName="liang/kefu" AssetName="KeFu.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/paihengbang/paihangbang.prefab" ABName="liang/paihangbang" AssetName="paihangbang.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/playerinfo/playerinfo.prefab" ABName="liang/playerinfo" AssetName="playerinfo.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Qiandao/Qiandao.prefab" ABName="liang/qiandao" AssetName="Qiandao.prefab">
+    <ABDependce>liang/shop</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/QinyouQuang/Delefriend.prefab" ABName="liang/qinyouquang" AssetName="Delefriend.prefab">
+    <ABDependce>application</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/QinyouQuang/QinyouQuang.prefab" ABName="liang/qinyouquang" AssetName="QinyouQuang.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/QinyouQuang/QyMange.prefab" ABName="liang/qymange" AssetName="QyMange.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/RenZhen/renzhen.prefab" ABName="liang/renzhen" AssetName="renzhen.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/set/set.prefab" ABName="liang/set" AssetName="set.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Shop/Shop.prefab" ABName="liang/shop" AssetName="Shop.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Tool/Tool.prefab" ABName="liang/tool" AssetName="Tool.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Shop/txView.prefab" ABName="liang/txview" AssetName="txView.prefab">
+    <ABDependce>liang/shop</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Shop/wareView.prefab" ABName="liang/wareview" AssetName="wareView.prefab">
+    <ABDependce>liang/shop</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/yonhuxieyi/YongHuXieYi.prefab" ABName="liang/yonghuxieyi" AssetName="YongHuXieYi.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/zhanji/zhanji.prefab" ABName="liang/zhanji" AssetName="zhanji.prefab" />
+  <ABList Path="Assets/GameData/UGUI/TanChuang/zhanweikaifang.prefab" ABName="liang/zhanweikaifang" AssetName="zhanweikaifang.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LoadSceen/Zhuce/ZhuChe.prefab" ABName="loadsceen/zhuce" AssetName="ZhuChe.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Mail/mail_Res.prefab" ABName="mailres" AssetName="mail_Res.prefab">
+    <ABDependce>liang/tanchuang</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/chi.prefab" ABName="majiang" AssetName="chi.prefab" />
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/MajiangRes.prefab" ABName="majiang" AssetName="MajiangRes.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/Pai.prefab" ABName="majiang" AssetName="Pai.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/PaiRes_My.prefab" ABName="majiang" AssetName="PaiRes_My.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/ShangMaJiangRes.prefab" ABName="majiang" AssetName="ShangMaJiangRes.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/ShangRes.prefab" ABName="majiang" AssetName="ShangRes.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/You_MaJiang.prefab" ABName="majiang" AssetName="You_MaJiang.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/YouRes.prefab" ABName="majiang" AssetName="YouRes.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/Zuo_MaJiang.prefab" ABName="majiang" AssetName="Zuo_MaJiang.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/ZuoRes.prefab" ABName="majiang" AssetName="ZuoRes.prefab">
+    <ABDependce>majiangpai</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/Tip.prefab" ABName="majiangtip" AssetName="Tip.prefab">
+    <ABDependce>liang/tanchuang</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/paihengbang/PanghangbangRes.prefab" ABName="paihangbangres" AssetName="PanghangbangRes.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Mail/sendgold.prefab" ABName="sendgold" AssetName="sendgold.prefab" />
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/biaoqingRes.prefab" ABName="talk" AssetName="biaoqingRes.prefab">
+    <ABDependce>biaoqin</ABDependce>
+  </ABList>
+  <ABList Path="Assets/GameData/UGUI/MajiangGame/talk.prefab" ABName="talk" AssetName="talk.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Talk/DuiHuaKuang.prefab" ABName="ugui" AssetName="DuiHuaKuang.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Talk/DuihuaXinxiInfo.prefab" ABName="ugui" AssetName="DuihuaXinxiInfo.prefab" />
+  <ABList Path="Assets/GameData/UGUI/TestPanel.prefab" ABName="ugui" AssetName="TestPanel.prefab" />
+  <ABList Path="Assets/GameData/UGUI/LiangSceen/Mail/WriteE_Mail.prefab" ABName="writemail" AssetName="WriteE_Mail.prefab" />
+</AssetBundleConfig>
